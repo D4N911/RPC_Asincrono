@@ -59,4 +59,3 @@ Ver `DOCUMENTACION.md` para la documentación técnica completa, incluyendo:
 - Diagramas de flujo del servidor y cliente
 - Grafo de precedencia
 - Detalles de implementación
-
